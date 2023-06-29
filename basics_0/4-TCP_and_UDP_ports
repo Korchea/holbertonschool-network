@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+#Pongamos que funciona
 netstat -tupn
